@@ -19,4 +19,3 @@ A muted dark theme for VS Code: sage-green keywords, soft-green functions and ty
 Install the `.vsix`: open the Extensions view, click `…` → **Install from VSIX…**, pick the file, then choose **Sage Night** under **Preferences: Color Theme**.
 
 Or from the folder: copy it into `~/.vscode/extensions/sage-night-theme` and restart VS Code.
-# vscode-sage-night-theme
