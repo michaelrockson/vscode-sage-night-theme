@@ -1,0 +1,29 @@
+{
+  "name": "sage-night-theme",
+  "displayName": "Sage Night",
+  "description": "A muted dark theme with sage-green keywords, warm strings and soft orange parameters.",
+  "version": "1.0.0",
+  "publisher": "MichaelRocksonCoffie",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "green",
+    "muted"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sage Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sage-night-color-theme.json"
+      }
+    ]
+  }
+}
